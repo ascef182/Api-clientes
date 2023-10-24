@@ -1,0 +1,5 @@
+package com.algaCRM.api.respository;
+
+public interface ClienteRepository {
+
+}

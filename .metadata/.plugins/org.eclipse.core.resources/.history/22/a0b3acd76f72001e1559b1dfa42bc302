@@ -1,0 +1,5 @@
+package com.algaCRM.api.model;
+
+public class Cliente {
+
+}

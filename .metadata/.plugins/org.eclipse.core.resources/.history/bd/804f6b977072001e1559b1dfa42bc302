@@ -1,0 +1,8 @@
+package com.algaCRM.api.model;
+
+public class Cliente {
+	
+	private Long id;
+	private String nome;
+
+}
